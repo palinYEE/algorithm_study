@@ -6,6 +6,8 @@
 
  * <https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=1>
 
+하루에 한강좌씩 가볍게 듣는 형식으로 공부 할 예정이다. (금요일은 쉬는날)
+
 ### 환경
 
 코드 작성은 vscode를 사용하며, 컴파일러는 다음과 같다. 
