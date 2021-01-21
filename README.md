@@ -24,3 +24,5 @@
     * 2강 - 정렬 알고리즘의 개요와 선택 정렬(Selection Sort)
  * 2021-01-20 :
       * 버블 정렬(Bubble Sort) 
+ * 2021-01-21 : 
+      * 삽입 정렬(Insertion Sort)
