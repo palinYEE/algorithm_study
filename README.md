@@ -26,3 +26,10 @@
       * 버블 정렬(Bubble Sort) 
  * 2021-01-21 : 
       * 삽입 정렬(Insertion Sort)
+ * 2021-01-24 : 
+      * 퀵 정렬 (Quick Sort)
+ * 2021-01-25 : 
+      * 백준 온라인 저지 문제 풀기 
+          * (https://www.acmicpc.net/problem/2752)
+          * (https://www.acmicpc.net/problem/2750)
+          * (https://www.acmicpc.net/problem/2751)
