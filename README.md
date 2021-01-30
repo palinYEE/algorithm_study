@@ -34,4 +34,7 @@
           * (https://www.acmicpc.net/problem/2750)
           * (https://www.acmicpc.net/problem/2751)
  * 2021-01-27 :
-      * 병합 정렬 (Merge Sor)
+      * 병합 정렬 (Merge Sort)
+ 
+ * 2021-01-30 :
+      * C++ STL sort() 함수 다루기 - 1
