@@ -39,7 +39,14 @@
 
  * 2021-01-30 :
       * C++ STL sort() 함수 다루기 - 1
- * 2021-01-31:
+ * 2021-01-31 :
       * C++ STL sort() 함수 다루기 - 2
- * 2021-02-02:
+ * 2021-02-02 :
       * 힙 정렬 (heap sort)
+ * 2021-02-03 :
+      * 계수 정룔 (Counting Sort)
+ * 2021-02-04 : 
+      * 백준 온라인 저지 문제 풀기 
+          * (https://www.acmicpc.net/problem/1181)
+          * (https://www.acmicpc.net/problem/1431)
+          * (https://www.acmicpc.net/problem/1431)
