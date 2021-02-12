@@ -1,13 +1,13 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
-#include<windows.h>
+// #include<windows.h>
 
 using namespace std;
-#pragma execution_character_set("utf-8")
+// #pragma execution_character_set("utf-8")
 
 int main(){
-    SetConsoleOutputCP(65001);
+    // SetConsoleOutputCP(65001);
     vector<pair<int, string> > v;
     v.push_back(pair<int, string>(90, "박한올"));
     v.push_back(pair<int, string>(85, "이태일"));

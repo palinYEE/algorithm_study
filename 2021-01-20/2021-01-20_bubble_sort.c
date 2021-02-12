@@ -26,6 +26,6 @@ int main(){
     printf("}\n");
 
 
-    printf("[*] total elapsed time : %d", (end_time-start_time)/1000);
+    printf("[*] total elapsed time : %lu", (end_time-start_time)/1000);
     
 }
