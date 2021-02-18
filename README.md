@@ -56,3 +56,8 @@
       * 깊이 우선 탐색 (dfs)
  * 2021-02-17 : 
       * Union-Find
+ * 2021-02-18 : 
+      * kruskal algorithm
+      * 에러 발생 : Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/algorithm:715:71: error: invalid operands to binary expression ('const Edge_node' and 'const Edge_node')
+
+      
