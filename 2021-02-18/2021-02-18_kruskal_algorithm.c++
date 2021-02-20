@@ -30,17 +30,17 @@ int findParent(int set[], int a, int b){
 
 // 간선 클래스 선언
 class Edge_node{
-    public:
-        int node[2];
-        int distance;
-        Edge_node(int a, int b, int distance){
-            this->node[0] = a;
-            this->node[1] = b;
-            this->distance = distance;
-        }
-        bool operator <(Edge_node &edge){
-            return this->distance < edge.distance;
-        }
+public:
+    int node[2];
+    int distance;
+    Edge_node(int a, int b, int distance){
+        this->node[0] = a;
+        this->node[1] = b;
+        this->distance = distance;
+    }
+    bool operator <(const Edge_node &edge) const {
+        return this->distance < edge.distance;
+    }
 };
 
 int main(){
@@ -58,11 +58,11 @@ int main(){
     v.push_back(Edge_node(3,5,20));
     v.push_back(Edge_node(3,6,37));
     v.push_back(Edge_node(4,7,13));
-    v.push_back(Edge_node(5,6,13));
-    v.push_back(Edge_node(5,7,45));
+    v.push_back(Edge_node(5,6,45));
+    v.push_back(Edge_node(5,7,73));
 
     // 간선의 비용으로 오름차순 정렬
-    std::sort(v.begin(), v.end());
+    ::sort(v.begin(), v.end());
 
     // 각 정점이 포함된 그래프가 어디인지 저장
     int set[n];

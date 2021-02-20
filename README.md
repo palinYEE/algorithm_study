@@ -59,5 +59,11 @@
  * 2021-02-18 : 
       * kruskal algorithm
       * 에러 발생 : Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/algorithm:715:71: error: invalid operands to binary expression ('const Edge_node' and 'const Edge_node')
-
-      
+      * 2021-02-20 에러 해결 :     
+     ```
+      bool operator <(const Edge_node &edge) const {
+        return this->distance < edge.distance;
+     }
+     ```
+ * 2021-02-20 : 
+      * binary tree
