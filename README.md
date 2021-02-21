@@ -67,3 +67,5 @@
      ```
  * 2021-02-20 : 
       * binary tree
+ * 2021-02-21 : 
+      * dynamic programming 기본 원리

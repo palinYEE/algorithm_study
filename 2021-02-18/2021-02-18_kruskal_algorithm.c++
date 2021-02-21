@@ -38,6 +38,7 @@ public:
         this->node[1] = b;
         this->distance = distance;
     }
+    // const 를 넣지 않으면 에러가 발생
     bool operator <(const Edge_node &edge) const {
         return this->distance < edge.distance;
     }
