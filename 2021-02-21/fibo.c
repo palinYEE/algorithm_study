@@ -28,4 +28,7 @@ int main(){
     printf("dynamic programming fibonacci result : %d\n", fibonacci(35));
     printf("소요 시간 : %ld", clock() - start);
 
+
+    printf("\n\\    /\\ \n )  ( ')\n(  /  )\n \\(__)|");
+
 }
